@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">my first lesson to androidstudio</string>
+    <string name="hello">Добро пожаловать!</string>
+    <string name="open">вход</string>
+    <string name="forgot_pass">забыли пароль?</string>
+    <string name="sea">выполните вход или зарегиструруйтесь</string>
+    <string name="point_pass">введите пароль</string>
+</resources>
